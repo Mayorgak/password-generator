@@ -6,7 +6,7 @@ Password generator was created to provide greater security to employees who have
 ---
 
 
-![](assets/images/password-img png)
+![](assets/images/password-img.png)
 
 
 ---
