@@ -5,13 +5,19 @@ Password generator was created to provide greater security to employees who have
 
 ---
 
+
+![](imgages/password-img png)
+
+
+---
+
 ## Built with
 * HTML
 * CSS
 * Javascript
 ---
 
-### Website
+## Website
 https://mayorgak.github.io/password-generator/
 
 ---
